@@ -26,7 +26,7 @@
   - [LTC] 리트코드
   - [CFS] 코드포스
   - [SEA] 삼성SW Expert Academy
-  - [ETC] 그외
+  - [ETC] 그외에에ss
 ---
 
 ### 🔸 Directory Explanation (디렉토리 설명)
